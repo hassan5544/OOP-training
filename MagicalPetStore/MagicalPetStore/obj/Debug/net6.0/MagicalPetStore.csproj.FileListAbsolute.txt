@@ -1,0 +1,14 @@
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\bin\Debug\net6.0\MagicalPetStore.exe
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\bin\Debug\net6.0\MagicalPetStore.deps.json
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\bin\Debug\net6.0\MagicalPetStore.runtimeconfig.json
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\bin\Debug\net6.0\MagicalPetStore.dll
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\bin\Debug\net6.0\MagicalPetStore.pdb
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\MagicalPetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\MagicalPetStore.AssemblyInfoInputs.cache
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\MagicalPetStore.AssemblyInfo.cs
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\MagicalPetStore.csproj.CoreCompileInputs.cache
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\MagicalPetStore.dll
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\refint\MagicalPetStore.dll
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\MagicalPetStore.pdb
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\MagicalPetStore.genruntimeconfig.cache
+C:\Users\AL-ITYAN\source\repos\MagicalPetStore\MagicalPetStore\obj\Debug\net6.0\ref\MagicalPetStore.dll

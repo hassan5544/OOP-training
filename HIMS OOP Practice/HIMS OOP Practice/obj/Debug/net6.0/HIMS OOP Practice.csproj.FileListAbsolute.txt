@@ -1,0 +1,14 @@
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\bin\Debug\net6.0\HIMS OOP Practice.exe
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\bin\Debug\net6.0\HIMS OOP Practice.deps.json
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\bin\Debug\net6.0\HIMS OOP Practice.runtimeconfig.json
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\bin\Debug\net6.0\HIMS OOP Practice.dll
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\bin\Debug\net6.0\HIMS OOP Practice.pdb
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\HIMS OOP Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\HIMS OOP Practice.AssemblyInfoInputs.cache
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\HIMS OOP Practice.AssemblyInfo.cs
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\HIMS OOP Practice.csproj.CoreCompileInputs.cache
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\HIMS OOP Practice.dll
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\refint\HIMS OOP Practice.dll
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\HIMS OOP Practice.pdb
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\HIMS OOP Practice.genruntimeconfig.cache
+C:\Users\AL-ITYAN\source\repos\HIMS OOP Practice\HIMS OOP Practice\obj\Debug\net6.0\ref\HIMS OOP Practice.dll

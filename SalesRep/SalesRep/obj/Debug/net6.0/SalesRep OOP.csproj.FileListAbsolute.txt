@@ -1,0 +1,14 @@
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\bin\Debug\net6.0\SalesRep OOP.exe
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\bin\Debug\net6.0\SalesRep OOP.deps.json
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\bin\Debug\net6.0\SalesRep OOP.runtimeconfig.json
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\bin\Debug\net6.0\SalesRep OOP.dll
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\bin\Debug\net6.0\SalesRep OOP.pdb
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\SalesRep OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\SalesRep OOP.AssemblyInfoInputs.cache
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\SalesRep OOP.AssemblyInfo.cs
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\SalesRep OOP.csproj.CoreCompileInputs.cache
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\SalesRep OOP.dll
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\refint\SalesRep OOP.dll
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\SalesRep OOP.pdb
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\SalesRep OOP.genruntimeconfig.cache
+C:\Users\AL-ITYAN\source\repos\SalesRep\SalesRep\obj\Debug\net6.0\ref\SalesRep OOP.dll
